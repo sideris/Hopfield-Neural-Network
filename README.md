@@ -1,4 +1,4 @@
-Hopfield_Neural_Network
+Hopfield Neural Network
 =======================
 
 A basic Hopfield neural network along with some useful functions for error calculation
