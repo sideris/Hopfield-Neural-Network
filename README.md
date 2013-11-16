@@ -1,6 +1,8 @@
 Hopfield_Neural_Network
 =======================
 
-This Class implements a basic Hopfield neural network along with some useful functions for error calculation
+A basic Hopfield neural network along with some useful functions for error calculation
 
-    Dependencies: JFree chart(included)
+    Dependencies: JFree chart(not included)
+
+Written in Eclipse environment
